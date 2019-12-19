@@ -1,0 +1,69 @@
+{
+    "name": "Deskero",
+    "description": "Deskero is a simple, flexible and social-aware helpdesk software and support ticket system to take care of customer service with a few clicks.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1956-deskero.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "helpdesk"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/deskero\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Deskero",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1956-deskero.jpg",
+            "humanURL": "http:\/\/www.deskero.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/deskero-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.deskero.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.deskero.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.deskero.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/deskero-by-nabra"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/deskero-by-nabra"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.deskero.com\/en\/documentation\/api"
+        },
+        {
+            "type": "Email",
+            "url": "partnership@deskero.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/deskerocare"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.deskero.com\/"
+        }
+    ]
+}
